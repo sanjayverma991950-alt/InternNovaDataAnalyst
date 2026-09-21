@@ -1,0 +1,15 @@
+print("=" * 45)
+print("           STUDENT INFORMATION")
+print("=" * 45)
+
+name = input("Enter your name: ").strip()
+college = input("Enter your college name: ").strip()
+branch = input("Enter your branch: ").strip()
+
+print("\n" + "-" * 45)
+print("              STUDENT DETAILS")
+print("-" * 45)
+print(f"Name    : {name}")
+print(f"College : {college}")
+print(f"Branch  : {branch}")
+print("-" * 45)

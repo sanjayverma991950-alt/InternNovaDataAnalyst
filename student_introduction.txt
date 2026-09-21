@@ -1,0 +1,10 @@
+============================================================
+                STUDENT INTRODUCTION PROFILE                
+============================================================
+Full Name       : Sanjay Kumar
+College / Univ  : Nova Institute of Technology
+Branch / Stream : Computer Science & Data Analytics
+About Me        : Aspiring Data Analyst passionate about Python and AI.
+Course Enrolled : Python for Data Analytics & AI
+Status          : Active Learner - Nova Data Analytic Week 1
+============================================================

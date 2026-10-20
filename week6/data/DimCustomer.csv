@@ -1,0 +1,351 @@
+CustomerID,CustomerName,Segment,LoyaltyTier,City,State,Region,AcquisitionDate
+CUST-2001,Finley Perry,Hibernating,Silver,Denver,CO,Central,2021-02-11
+CUST-2002,Logan Perry,Loyal Customers,Gold,Atlanta,GA,South,2022-05-19
+CUST-2003,Cameron Butler,Loyal Customers,Gold,Los Angeles,CA,West,2021-09-23
+CUST-2004,Peyton Hughes,Loyal Customers,Gold,Houston,TX,South,2021-03-10
+CUST-2005,Reese Washington,Champions,Silver,Houston,TX,South,2022-05-20
+CUST-2006,Morgan Diaz,Potential Loyalists,Standard,Philadelphia,PA,East,2021-11-13
+CUST-2007,Reese Russell,Champions,Silver,Seattle,WA,West,2021-10-20
+CUST-2008,Alex Butler,Potential Loyalists,Gold,Houston,TX,South,2022-11-30
+CUST-2009,Dakota Hughes,Loyal Customers,Standard,New York,NY,East,2022-11-17
+CUST-2010,Skyler Jenkins,Champions,Gold,Phoenix,AZ,West,2021-12-16
+CUST-2011,Finley Simmons,Loyal Customers,Standard,Chicago,IL,Central,2022-02-07
+CUST-2012,Chris Bryant,Hibernating,Platinum,New York,NY,East,2021-05-12
+CUST-2013,Dakota Alexander,At Risk,Platinum,Miami,FL,South,2021-04-07
+CUST-2014,Hayden Butler,Potential Loyalists,Standard,Chicago,IL,Central,2022-05-31
+CUST-2015,Peyton Butler,Champions,Gold,Chicago,IL,Central,2022-02-06
+CUST-2016,Cameron Flores,Champions,Silver,Los Angeles,CA,West,2021-12-29
+CUST-2017,Rowan Foster,Loyal Customers,Standard,Houston,TX,South,2022-09-21
+CUST-2018,Casey Powell,Loyal Customers,Silver,Phoenix,AZ,West,2021-07-04
+CUST-2019,Cameron Russell,Loyal Customers,Standard,Los Angeles,CA,West,2022-06-25
+CUST-2020,Alex Bennett,At Risk,Silver,Seattle,WA,West,2021-05-18
+CUST-2021,Jordan Patterson,At Risk,Silver,Houston,TX,South,2022-06-05
+CUST-2022,Peyton Griffin,Loyal Customers,Platinum,Denver,CO,Central,2022-08-08
+CUST-2023,Jesse Hughes,At Risk,Silver,Philadelphia,PA,East,2022-10-28
+CUST-2024,Riley Bryant,Loyal Customers,Silver,Los Angeles,CA,West,2022-07-26
+CUST-2025,Cameron Sullivan,Champions,Standard,Philadelphia,PA,East,2022-05-29
+CUST-2026,Dakota Bryant,Loyal Customers,Silver,Denver,CO,Central,2021-06-01
+CUST-2027,Cameron Simmons,Potential Loyalists,Gold,Phoenix,AZ,West,2021-10-03
+CUST-2028,Pat Butler,At Risk,Gold,Phoenix,AZ,West,2021-05-09
+CUST-2029,Cameron Butler,Potential Loyalists,Gold,Miami,FL,South,2022-05-27
+CUST-2030,Jordan Butler,Hibernating,Platinum,Atlanta,GA,South,2021-10-27
+CUST-2031,Rowan Coleman,Hibernating,Silver,Atlanta,GA,South,2021-03-11
+CUST-2032,Jordan Foster,Potential Loyalists,Gold,Phoenix,AZ,West,2022-09-25
+CUST-2033,Hayden Butler,Potential Loyalists,Platinum,Philadelphia,PA,East,2021-08-29
+CUST-2034,Skyler Sullivan,Champions,Gold,Phoenix,AZ,West,2021-03-03
+CUST-2035,Peyton Sullivan,Potential Loyalists,Silver,Houston,TX,South,2022-06-29
+CUST-2036,Finley Perry,Champions,Standard,Miami,FL,South,2021-07-12
+CUST-2037,Logan Russell,Potential Loyalists,Standard,Los Angeles,CA,West,2022-01-16
+CUST-2038,Logan Powell,Potential Loyalists,Standard,Atlanta,GA,South,2022-09-01
+CUST-2039,Morgan Foster,Potential Loyalists,Silver,Miami,FL,South,2021-04-04
+CUST-2040,Hayden Hayes,Loyal Customers,Gold,Phoenix,AZ,West,2022-10-22
+CUST-2041,Morgan Simmons,Champions,Platinum,Denver,CO,Central,2022-03-02
+CUST-2042,Riley Jenkins,Potential Loyalists,Gold,Seattle,WA,West,2021-03-14
+CUST-2043,Cameron Foster,Loyal Customers,Standard,Houston,TX,South,2021-08-29
+CUST-2044,Riley Perry,Champions,Gold,Seattle,WA,West,2021-09-29
+CUST-2045,Avery Perry,At Risk,Standard,Phoenix,AZ,West,2022-06-10
+CUST-2046,Cameron Foster,Loyal Customers,Gold,Houston,TX,South,2021-12-03
+CUST-2047,Sam Coleman,At Risk,Silver,Atlanta,GA,South,2021-03-31
+CUST-2048,Dakota Butler,Hibernating,Gold,Atlanta,GA,South,2022-10-27
+CUST-2049,Rowan Simmons,Champions,Platinum,Los Angeles,CA,West,2021-08-16
+CUST-2050,Jordan Flores,Loyal Customers,Gold,New York,NY,East,2021-11-28
+CUST-2051,Sam Simmons,At Risk,Standard,Seattle,WA,West,2022-06-15
+CUST-2052,Skyler Butler,Loyal Customers,Standard,Phoenix,AZ,West,2022-05-17
+CUST-2053,Hayden Simmons,Champions,Gold,Seattle,WA,West,2021-02-11
+CUST-2054,Avery Simmons,Loyal Customers,Standard,Houston,TX,South,2022-11-05
+CUST-2055,Jordan Bryant,Potential Loyalists,Platinum,Los Angeles,CA,West,2021-08-08
+CUST-2056,Jesse Butler,Potential Loyalists,Gold,Philadelphia,PA,East,2021-08-18
+CUST-2057,Riley Powell,Potential Loyalists,Gold,Miami,FL,South,2021-03-26
+CUST-2058,Avery Sullivan,Champions,Silver,Denver,CO,Central,2022-03-19
+CUST-2059,Dakota Flores,At Risk,Silver,Chicago,IL,Central,2022-04-27
+CUST-2060,Peyton Bryant,Potential Loyalists,Standard,Seattle,WA,West,2022-10-28
+CUST-2061,Dakota Griffin,Champions,Gold,Los Angeles,CA,West,2022-07-13
+CUST-2062,Logan Powell,Potential Loyalists,Silver,Denver,CO,Central,2021-05-06
+CUST-2063,Riley Alexander,Potential Loyalists,Platinum,Atlanta,GA,South,2022-08-01
+CUST-2064,Jordan Alexander,At Risk,Platinum,Houston,TX,South,2022-07-25
+CUST-2065,Avery Simmons,Loyal Customers,Gold,Phoenix,AZ,West,2021-07-29
+CUST-2066,Skyler Simmons,Champions,Standard,New York,NY,East,2022-10-07
+CUST-2067,Finley Coleman,Potential Loyalists,Platinum,Chicago,IL,Central,2022-01-27
+CUST-2068,Jordan Powell,Loyal Customers,Standard,Phoenix,AZ,West,2022-07-12
+CUST-2069,Skyler Russell,Loyal Customers,Standard,Houston,TX,South,2021-05-07
+CUST-2070,Cameron Hughes,Loyal Customers,Silver,Seattle,WA,West,2022-02-24
+CUST-2071,Jesse Bryant,Hibernating,Gold,Seattle,WA,West,2022-07-26
+CUST-2072,Alex Flores,Potential Loyalists,Standard,Los Angeles,CA,West,2022-06-21
+CUST-2073,Casey Perry,Loyal Customers,Silver,Miami,FL,South,2022-08-16
+CUST-2074,Morgan Hayes,Hibernating,Standard,Seattle,WA,West,2021-11-12
+CUST-2075,Alex Simmons,Potential Loyalists,Silver,Chicago,IL,Central,2021-11-02
+CUST-2076,Jordan Diaz,Potential Loyalists,Silver,Philadelphia,PA,East,2022-05-27
+CUST-2077,Peyton Simmons,Champions,Platinum,New York,NY,East,2021-12-14
+CUST-2078,Logan Perry,Loyal Customers,Gold,Denver,CO,Central,2021-12-16
+CUST-2079,Chris Bennett,Loyal Customers,Standard,Miami,FL,South,2021-02-06
+CUST-2080,Riley Simmons,Loyal Customers,Silver,Miami,FL,South,2021-09-30
+CUST-2081,Dakota Foster,Loyal Customers,Standard,Philadelphia,PA,East,2021-12-13
+CUST-2082,Dakota Griffin,Hibernating,Platinum,Philadelphia,PA,East,2021-08-30
+CUST-2083,Reese Simmons,Loyal Customers,Gold,Houston,TX,South,2021-06-21
+CUST-2084,Pat Powell,Potential Loyalists,Gold,Denver,CO,Central,2021-05-06
+CUST-2085,Morgan Powell,Potential Loyalists,Platinum,Philadelphia,PA,East,2022-06-18
+CUST-2086,Hayden Washington,Potential Loyalists,Gold,Philadelphia,PA,East,2022-01-11
+CUST-2087,Sam Washington,Potential Loyalists,Standard,Denver,CO,Central,2021-10-04
+CUST-2088,Jordan Bennett,Loyal Customers,Standard,Phoenix,AZ,West,2022-04-26
+CUST-2089,Cameron Jenkins,Hibernating,Standard,Los Angeles,CA,West,2022-09-30
+CUST-2090,Jesse Alexander,Champions,Platinum,Phoenix,AZ,West,2022-05-10
+CUST-2091,Riley Foster,Champions,Silver,Denver,CO,Central,2021-11-09
+CUST-2092,Taylor Butler,At Risk,Silver,Philadelphia,PA,East,2021-11-26
+CUST-2093,Reese Patterson,Champions,Platinum,Seattle,WA,West,2022-02-11
+CUST-2094,Peyton Simmons,Loyal Customers,Gold,Los Angeles,CA,West,2022-05-06
+CUST-2095,Avery Jenkins,Champions,Standard,Los Angeles,CA,West,2021-07-02
+CUST-2096,Finley Simmons,Potential Loyalists,Standard,Houston,TX,South,2021-09-04
+CUST-2097,Taylor Jenkins,Loyal Customers,Standard,Phoenix,AZ,West,2022-07-14
+CUST-2098,Taylor Perry,Potential Loyalists,Standard,Atlanta,GA,South,2022-11-11
+CUST-2099,Chris Hughes,Potential Loyalists,Platinum,Atlanta,GA,South,2022-11-19
+CUST-2100,Chris Washington,Potential Loyalists,Standard,Denver,CO,Central,2021-06-11
+CUST-2101,Pat Powell,Loyal Customers,Silver,Houston,TX,South,2022-07-21
+CUST-2102,Skyler Jenkins,At Risk,Silver,Seattle,WA,West,2022-01-18
+CUST-2103,Logan Hayes,Potential Loyalists,Silver,Los Angeles,CA,West,2021-06-22
+CUST-2104,Rowan Jenkins,Potential Loyalists,Silver,Phoenix,AZ,West,2022-08-19
+CUST-2105,Chris Sullivan,Loyal Customers,Gold,Miami,FL,South,2022-05-07
+CUST-2106,Jordan Bryant,Potential Loyalists,Gold,Atlanta,GA,South,2022-05-28
+CUST-2107,Cameron Russell,Champions,Platinum,Miami,FL,South,2022-05-18
+CUST-2108,Hayden Russell,At Risk,Silver,Miami,FL,South,2021-12-19
+CUST-2109,Taylor Russell,Loyal Customers,Platinum,Philadelphia,PA,East,2021-09-23
+CUST-2110,Chris Coleman,Champions,Platinum,Atlanta,GA,South,2022-11-13
+CUST-2111,Morgan Hayes,At Risk,Standard,Los Angeles,CA,West,2021-03-28
+CUST-2112,Reese Simmons,Potential Loyalists,Standard,New York,NY,East,2022-08-13
+CUST-2113,Peyton Sullivan,Loyal Customers,Gold,Miami,FL,South,2022-08-29
+CUST-2114,Avery Patterson,Potential Loyalists,Standard,Chicago,IL,Central,2021-05-10
+CUST-2115,Hayden Russell,Potential Loyalists,Gold,Philadelphia,PA,East,2021-09-23
+CUST-2116,Skyler Coleman,Potential Loyalists,Standard,New York,NY,East,2022-06-05
+CUST-2117,Jordan Jenkins,Loyal Customers,Silver,Miami,FL,South,2021-06-14
+CUST-2118,Jesse Sullivan,Hibernating,Gold,Miami,FL,South,2022-04-07
+CUST-2119,Skyler Russell,Loyal Customers,Silver,Seattle,WA,West,2022-01-10
+CUST-2120,Alex Bryant,Loyal Customers,Platinum,Chicago,IL,Central,2021-04-23
+CUST-2121,Logan Griffin,Loyal Customers,Standard,Denver,CO,Central,2022-01-14
+CUST-2122,Casey Russell,Champions,Standard,Denver,CO,Central,2021-12-12
+CUST-2123,Pat Washington,Potential Loyalists,Gold,Denver,CO,Central,2022-06-23
+CUST-2124,Rowan Bennett,Champions,Standard,Phoenix,AZ,West,2021-11-13
+CUST-2125,Finley Simmons,Champions,Platinum,Denver,CO,Central,2022-03-02
+CUST-2126,Sam Griffin,Hibernating,Platinum,Denver,CO,Central,2021-08-01
+CUST-2127,Taylor Russell,Loyal Customers,Standard,New York,NY,East,2021-08-05
+CUST-2128,Taylor Russell,At Risk,Standard,Miami,FL,South,2021-10-27
+CUST-2129,Sam Perry,Potential Loyalists,Standard,Phoenix,AZ,West,2021-03-08
+CUST-2130,Peyton Diaz,Potential Loyalists,Standard,Philadelphia,PA,East,2021-10-28
+CUST-2131,Avery Sullivan,At Risk,Gold,Houston,TX,South,2021-12-01
+CUST-2132,Logan Butler,Champions,Silver,Los Angeles,CA,West,2022-01-31
+CUST-2133,Dakota Diaz,Loyal Customers,Gold,Atlanta,GA,South,2022-01-28
+CUST-2134,Sam Griffin,Loyal Customers,Silver,Los Angeles,CA,West,2021-05-26
+CUST-2135,Peyton Alexander,Loyal Customers,Standard,Denver,CO,Central,2022-04-08
+CUST-2136,Jesse Bryant,Potential Loyalists,Silver,Los Angeles,CA,West,2022-04-28
+CUST-2137,Dakota Patterson,Potential Loyalists,Gold,Atlanta,GA,South,2021-09-12
+CUST-2138,Casey Coleman,Loyal Customers,Silver,Philadelphia,PA,East,2021-09-03
+CUST-2139,Jordan Bryant,Potential Loyalists,Gold,Philadelphia,PA,East,2022-07-18
+CUST-2140,Skyler Simmons,Champions,Silver,Philadelphia,PA,East,2021-11-15
+CUST-2141,Avery Patterson,Potential Loyalists,Standard,Miami,FL,South,2021-04-01
+CUST-2142,Logan Flores,Hibernating,Platinum,Los Angeles,CA,West,2022-10-10
+CUST-2143,Morgan Russell,Loyal Customers,Standard,Miami,FL,South,2022-10-23
+CUST-2144,Alex Russell,Loyal Customers,Gold,New York,NY,East,2021-08-02
+CUST-2145,Casey Griffin,At Risk,Silver,Phoenix,AZ,West,2021-12-19
+CUST-2146,Jordan Powell,Potential Loyalists,Platinum,Atlanta,GA,South,2022-07-26
+CUST-2147,Taylor Washington,Loyal Customers,Standard,Miami,FL,South,2022-08-06
+CUST-2148,Hayden Bryant,Potential Loyalists,Standard,New York,NY,East,2022-07-01
+CUST-2149,Morgan Jenkins,Hibernating,Silver,Denver,CO,Central,2022-06-02
+CUST-2150,Jesse Washington,Champions,Silver,Houston,TX,South,2021-04-03
+CUST-2151,Avery Diaz,Loyal Customers,Standard,Chicago,IL,Central,2022-01-30
+CUST-2152,Jesse Alexander,Potential Loyalists,Standard,Chicago,IL,Central,2022-03-11
+CUST-2153,Dakota Coleman,Potential Loyalists,Silver,Miami,FL,South,2022-06-03
+CUST-2154,Peyton Simmons,Loyal Customers,Silver,Houston,TX,South,2022-10-11
+CUST-2155,Rowan Hayes,Hibernating,Standard,New York,NY,East,2021-03-21
+CUST-2156,Rowan Patterson,Hibernating,Standard,Seattle,WA,West,2022-11-25
+CUST-2157,Jesse Russell,Potential Loyalists,Gold,New York,NY,East,2022-05-19
+CUST-2158,Avery Diaz,Hibernating,Gold,Atlanta,GA,South,2021-04-24
+CUST-2159,Taylor Simmons,Loyal Customers,Silver,Denver,CO,Central,2022-06-13
+CUST-2160,Hayden Jenkins,Champions,Gold,Chicago,IL,Central,2022-11-06
+CUST-2161,Logan Hughes,Loyal Customers,Gold,Philadelphia,PA,East,2022-07-28
+CUST-2162,Dakota Griffin,Loyal Customers,Silver,Chicago,IL,Central,2021-10-25
+CUST-2163,Skyler Bennett,Hibernating,Standard,Los Angeles,CA,West,2022-03-07
+CUST-2164,Dakota Flores,Potential Loyalists,Silver,Denver,CO,Central,2021-10-13
+CUST-2165,Rowan Perry,Hibernating,Standard,Miami,FL,South,2022-09-13
+CUST-2166,Morgan Griffin,Loyal Customers,Standard,Chicago,IL,Central,2021-12-18
+CUST-2167,Jordan Jenkins,Loyal Customers,Silver,Atlanta,GA,South,2022-03-15
+CUST-2168,Hayden Griffin,Potential Loyalists,Platinum,Los Angeles,CA,West,2022-09-19
+CUST-2169,Sam Washington,Hibernating,Platinum,Seattle,WA,West,2022-10-02
+CUST-2170,Morgan Hughes,Loyal Customers,Standard,Houston,TX,South,2022-09-05
+CUST-2171,Cameron Alexander,Potential Loyalists,Gold,Philadelphia,PA,East,2022-04-20
+CUST-2172,Jordan Bryant,Potential Loyalists,Gold,New York,NY,East,2021-10-08
+CUST-2173,Alex Alexander,Loyal Customers,Gold,Houston,TX,South,2022-09-03
+CUST-2174,Hayden Russell,Potential Loyalists,Gold,Los Angeles,CA,West,2021-12-26
+CUST-2175,Casey Russell,Loyal Customers,Silver,Chicago,IL,Central,2021-09-16
+CUST-2176,Alex Bryant,Potential Loyalists,Platinum,Seattle,WA,West,2021-02-01
+CUST-2177,Casey Russell,Potential Loyalists,Standard,Seattle,WA,West,2021-08-27
+CUST-2178,Cameron Hughes,Loyal Customers,Silver,Miami,FL,South,2021-07-19
+CUST-2179,Jesse Hughes,At Risk,Platinum,Denver,CO,Central,2022-09-28
+CUST-2180,Skyler Powell,Champions,Gold,Houston,TX,South,2021-06-19
+CUST-2181,Hayden Russell,At Risk,Gold,Philadelphia,PA,East,2021-06-11
+CUST-2182,Morgan Patterson,Potential Loyalists,Silver,Philadelphia,PA,East,2021-12-28
+CUST-2183,Peyton Washington,Loyal Customers,Platinum,Houston,TX,South,2022-02-14
+CUST-2184,Jesse Butler,Champions,Gold,Chicago,IL,Central,2021-11-14
+CUST-2185,Jesse Alexander,Loyal Customers,Silver,Atlanta,GA,South,2021-08-17
+CUST-2186,Morgan Hayes,Champions,Platinum,Denver,CO,Central,2021-12-30
+CUST-2187,Riley Hughes,Loyal Customers,Silver,New York,NY,East,2022-08-27
+CUST-2188,Reese Griffin,Loyal Customers,Gold,Houston,TX,South,2022-09-17
+CUST-2189,Jordan Coleman,Loyal Customers,Standard,Philadelphia,PA,East,2022-04-15
+CUST-2190,Logan Simmons,Potential Loyalists,Standard,Atlanta,GA,South,2022-10-16
+CUST-2191,Jordan Powell,Hibernating,Silver,Phoenix,AZ,West,2021-11-02
+CUST-2192,Jordan Butler,At Risk,Gold,Chicago,IL,Central,2021-03-05
+CUST-2193,Logan Alexander,Potential Loyalists,Standard,Phoenix,AZ,West,2021-09-21
+CUST-2194,Logan Bryant,Hibernating,Gold,Los Angeles,CA,West,2022-12-13
+CUST-2195,Morgan Russell,At Risk,Gold,Miami,FL,South,2021-06-27
+CUST-2196,Skyler Bryant,Potential Loyalists,Gold,Philadelphia,PA,East,2022-03-22
+CUST-2197,Avery Russell,Loyal Customers,Gold,Atlanta,GA,South,2021-11-07
+CUST-2198,Avery Foster,At Risk,Standard,Miami,FL,South,2022-01-25
+CUST-2199,Logan Washington,Loyal Customers,Platinum,Los Angeles,CA,West,2021-10-05
+CUST-2200,Chris Bennett,At Risk,Silver,Denver,CO,Central,2021-05-11
+CUST-2201,Reese Foster,Potential Loyalists,Gold,Los Angeles,CA,West,2022-06-11
+CUST-2202,Avery Russell,Loyal Customers,Silver,Los Angeles,CA,West,2021-08-03
+CUST-2203,Peyton Hayes,Champions,Silver,Philadelphia,PA,East,2021-07-08
+CUST-2204,Avery Patterson,Hibernating,Silver,Los Angeles,CA,West,2021-08-09
+CUST-2205,Casey Hughes,At Risk,Gold,Chicago,IL,Central,2022-09-02
+CUST-2206,Reese Bennett,Potential Loyalists,Silver,New York,NY,East,2022-06-06
+CUST-2207,Peyton Diaz,Loyal Customers,Silver,New York,NY,East,2022-03-14
+CUST-2208,Jordan Russell,Loyal Customers,Platinum,Denver,CO,Central,2021-07-13
+CUST-2209,Taylor Hughes,Loyal Customers,Gold,Los Angeles,CA,West,2021-06-04
+CUST-2210,Sam Jenkins,Hibernating,Silver,Denver,CO,Central,2021-11-10
+CUST-2211,Peyton Diaz,Loyal Customers,Silver,Phoenix,AZ,West,2021-12-28
+CUST-2212,Peyton Bennett,Potential Loyalists,Standard,Los Angeles,CA,West,2022-10-30
+CUST-2213,Skyler Diaz,Champions,Gold,Phoenix,AZ,West,2021-04-03
+CUST-2214,Morgan Patterson,At Risk,Standard,New York,NY,East,2021-09-13
+CUST-2215,Reese Simmons,Hibernating,Standard,Chicago,IL,Central,2022-08-27
+CUST-2216,Taylor Flores,Loyal Customers,Standard,New York,NY,East,2021-06-10
+CUST-2217,Sam Griffin,Loyal Customers,Standard,Denver,CO,Central,2021-11-05
+CUST-2218,Alex Alexander,Loyal Customers,Gold,Phoenix,AZ,West,2021-08-14
+CUST-2219,Riley Simmons,Potential Loyalists,Standard,Phoenix,AZ,West,2021-05-16
+CUST-2220,Casey Perry,Potential Loyalists,Platinum,Houston,TX,South,2021-06-25
+CUST-2221,Jordan Bryant,Loyal Customers,Platinum,Philadelphia,PA,East,2022-04-29
+CUST-2222,Dakota Simmons,Potential Loyalists,Standard,Atlanta,GA,South,2022-06-28
+CUST-2223,Alex Flores,Loyal Customers,Standard,Atlanta,GA,South,2022-03-22
+CUST-2224,Alex Flores,Hibernating,Standard,Houston,TX,South,2022-04-22
+CUST-2225,Morgan Simmons,Loyal Customers,Gold,Miami,FL,South,2021-12-30
+CUST-2226,Rowan Washington,Loyal Customers,Silver,Miami,FL,South,2022-11-08
+CUST-2227,Avery Alexander,At Risk,Standard,Chicago,IL,Central,2021-11-02
+CUST-2228,Morgan Simmons,At Risk,Silver,Philadelphia,PA,East,2022-01-23
+CUST-2229,Riley Coleman,Loyal Customers,Gold,Seattle,WA,West,2022-12-21
+CUST-2230,Reese Patterson,Champions,Standard,Philadelphia,PA,East,2021-11-01
+CUST-2231,Riley Sullivan,Loyal Customers,Gold,Houston,TX,South,2022-09-18
+CUST-2232,Avery Coleman,Champions,Silver,Philadelphia,PA,East,2022-01-22
+CUST-2233,Jesse Russell,At Risk,Gold,Phoenix,AZ,West,2021-07-10
+CUST-2234,Dakota Sullivan,Champions,Gold,Denver,CO,Central,2022-03-16
+CUST-2235,Casey Griffin,Potential Loyalists,Standard,Atlanta,GA,South,2021-02-11
+CUST-2236,Alex Flores,At Risk,Standard,Los Angeles,CA,West,2022-05-03
+CUST-2237,Hayden Griffin,Hibernating,Silver,Chicago,IL,Central,2022-11-16
+CUST-2238,Avery Bryant,Potential Loyalists,Gold,Atlanta,GA,South,2022-09-15
+CUST-2239,Taylor Washington,Loyal Customers,Gold,Chicago,IL,Central,2021-05-19
+CUST-2240,Reese Perry,Potential Loyalists,Standard,New York,NY,East,2022-01-03
+CUST-2241,Morgan Bryant,Hibernating,Silver,Atlanta,GA,South,2022-11-04
+CUST-2242,Cameron Griffin,At Risk,Silver,Denver,CO,Central,2022-10-25
+CUST-2243,Skyler Perry,Loyal Customers,Silver,Miami,FL,South,2021-12-13
+CUST-2244,Skyler Patterson,Champions,Gold,Phoenix,AZ,West,2021-11-08
+CUST-2245,Avery Powell,Potential Loyalists,Silver,Atlanta,GA,South,2022-06-10
+CUST-2246,Casey Simmons,Champions,Silver,Atlanta,GA,South,2021-05-25
+CUST-2247,Jordan Flores,Potential Loyalists,Gold,Atlanta,GA,South,2022-06-28
+CUST-2248,Finley Russell,Loyal Customers,Platinum,Phoenix,AZ,West,2021-10-23
+CUST-2249,Pat Flores,Loyal Customers,Gold,Miami,FL,South,2021-08-05
+CUST-2250,Rowan Coleman,Loyal Customers,Standard,Los Angeles,CA,West,2021-04-29
+CUST-2251,Finley Butler,Champions,Silver,Miami,FL,South,2022-04-08
+CUST-2252,Skyler Butler,Loyal Customers,Gold,Denver,CO,Central,2021-03-24
+CUST-2253,Chris Hayes,Potential Loyalists,Platinum,Los Angeles,CA,West,2021-02-27
+CUST-2254,Jesse Washington,Loyal Customers,Silver,Denver,CO,Central,2021-02-08
+CUST-2255,Logan Bennett,Champions,Gold,Phoenix,AZ,West,2021-04-26
+CUST-2256,Riley Washington,Loyal Customers,Silver,New York,NY,East,2022-04-19
+CUST-2257,Reese Simmons,Loyal Customers,Standard,Chicago,IL,Central,2021-11-04
+CUST-2258,Jesse Hayes,Loyal Customers,Silver,New York,NY,East,2021-08-02
+CUST-2259,Peyton Russell,Potential Loyalists,Platinum,Philadelphia,PA,East,2021-05-14
+CUST-2260,Dakota Powell,Loyal Customers,Gold,Philadelphia,PA,East,2021-12-10
+CUST-2261,Taylor Simmons,Loyal Customers,Platinum,New York,NY,East,2021-12-04
+CUST-2262,Dakota Simmons,Loyal Customers,Standard,Houston,TX,South,2021-02-20
+CUST-2263,Pat Russell,At Risk,Silver,Miami,FL,South,2022-04-13
+CUST-2264,Casey Sullivan,Hibernating,Gold,Philadelphia,PA,East,2021-11-15
+CUST-2265,Rowan Jenkins,At Risk,Gold,Chicago,IL,Central,2021-11-09
+CUST-2266,Casey Russell,Loyal Customers,Platinum,Houston,TX,South,2022-10-03
+CUST-2267,Reese Powell,Loyal Customers,Standard,Chicago,IL,Central,2022-03-11
+CUST-2268,Jordan Washington,Loyal Customers,Gold,Los Angeles,CA,West,2021-07-09
+CUST-2269,Avery Simmons,Loyal Customers,Silver,Phoenix,AZ,West,2021-05-28
+CUST-2270,Sam Hayes,Champions,Standard,Houston,TX,South,2022-07-14
+CUST-2271,Peyton Sullivan,Loyal Customers,Gold,Miami,FL,South,2021-09-06
+CUST-2272,Riley Sullivan,At Risk,Silver,Chicago,IL,Central,2021-08-23
+CUST-2273,Reese Butler,At Risk,Gold,Philadelphia,PA,East,2021-10-26
+CUST-2274,Cameron Alexander,Potential Loyalists,Standard,Houston,TX,South,2021-10-17
+CUST-2275,Peyton Simmons,Hibernating,Standard,Seattle,WA,West,2021-10-14
+CUST-2276,Taylor Bennett,Champions,Gold,Houston,TX,South,2021-08-09
+CUST-2277,Sam Washington,Champions,Standard,Philadelphia,PA,East,2022-12-19
+CUST-2278,Jordan Butler,Loyal Customers,Gold,Denver,CO,Central,2021-05-25
+CUST-2279,Sam Sullivan,At Risk,Standard,Chicago,IL,Central,2021-03-22
+CUST-2280,Peyton Washington,Potential Loyalists,Silver,Seattle,WA,West,2021-09-06
+CUST-2281,Casey Foster,At Risk,Gold,Chicago,IL,Central,2022-03-24
+CUST-2282,Finley Washington,Loyal Customers,Platinum,Philadelphia,PA,East,2021-09-30
+CUST-2283,Skyler Washington,At Risk,Standard,Philadelphia,PA,East,2021-02-28
+CUST-2284,Avery Washington,Potential Loyalists,Gold,Seattle,WA,West,2021-07-28
+CUST-2285,Sam Bennett,Potential Loyalists,Gold,Phoenix,AZ,West,2021-05-14
+CUST-2286,Chris Sullivan,Loyal Customers,Standard,Houston,TX,South,2021-12-12
+CUST-2287,Peyton Perry,Champions,Platinum,Phoenix,AZ,West,2021-03-04
+CUST-2288,Hayden Patterson,Loyal Customers,Gold,Los Angeles,CA,West,2022-09-21
+CUST-2289,Cameron Bennett,Potential Loyalists,Silver,Los Angeles,CA,West,2022-07-31
+CUST-2290,Hayden Hayes,Potential Loyalists,Gold,Denver,CO,Central,2022-04-01
+CUST-2291,Hayden Sullivan,Potential Loyalists,Standard,New York,NY,East,2022-09-28
+CUST-2292,Riley Hayes,Loyal Customers,Gold,Atlanta,GA,South,2021-12-01
+CUST-2293,Skyler Alexander,Loyal Customers,Standard,Chicago,IL,Central,2021-09-25
+CUST-2294,Dakota Powell,Potential Loyalists,Platinum,Los Angeles,CA,West,2022-05-13
+CUST-2295,Dakota Hughes,Hibernating,Gold,Denver,CO,Central,2022-08-17
+CUST-2296,Taylor Washington,Champions,Gold,Philadelphia,PA,East,2022-04-13
+CUST-2297,Casey Simmons,Loyal Customers,Standard,New York,NY,East,2022-05-13
+CUST-2298,Taylor Griffin,At Risk,Silver,Houston,TX,South,2022-10-28
+CUST-2299,Reese Flores,Hibernating,Gold,Atlanta,GA,South,2022-04-23
+CUST-2300,Jordan Patterson,Champions,Standard,Los Angeles,CA,West,2021-02-25
+CUST-2301,Cameron Simmons,Loyal Customers,Standard,Denver,CO,Central,2021-12-17
+CUST-2302,Alex Flores,Hibernating,Gold,Seattle,WA,West,2022-11-09
+CUST-2303,Finley Hayes,Potential Loyalists,Gold,Seattle,WA,West,2021-10-24
+CUST-2304,Cameron Foster,Loyal Customers,Gold,New York,NY,East,2022-11-08
+CUST-2305,Jesse Powell,Loyal Customers,Silver,Houston,TX,South,2021-12-03
+CUST-2306,Pat Diaz,Champions,Standard,Philadelphia,PA,East,2021-12-15
+CUST-2307,Avery Powell,Hibernating,Standard,Houston,TX,South,2021-09-01
+CUST-2308,Jesse Simmons,Loyal Customers,Gold,Miami,FL,South,2022-08-28
+CUST-2309,Chris Butler,At Risk,Silver,Denver,CO,Central,2022-01-10
+CUST-2310,Casey Griffin,Champions,Gold,Denver,CO,Central,2021-09-12
+CUST-2311,Reese Washington,At Risk,Gold,Denver,CO,Central,2022-07-20
+CUST-2312,Hayden Jenkins,At Risk,Standard,Denver,CO,Central,2022-12-02
+CUST-2313,Cameron Diaz,Loyal Customers,Standard,Phoenix,AZ,West,2021-11-18
+CUST-2314,Sam Coleman,At Risk,Silver,Phoenix,AZ,West,2022-02-13
+CUST-2315,Reese Patterson,Loyal Customers,Gold,Houston,TX,South,2021-06-14
+CUST-2316,Jordan Simmons,At Risk,Standard,Miami,FL,South,2022-12-12
+CUST-2317,Pat Russell,Loyal Customers,Gold,Philadelphia,PA,East,2022-10-21
+CUST-2318,Taylor Diaz,Potential Loyalists,Platinum,Chicago,IL,Central,2022-06-27
+CUST-2319,Reese Flores,At Risk,Standard,Phoenix,AZ,West,2021-11-09
+CUST-2320,Peyton Simmons,Potential Loyalists,Platinum,Seattle,WA,West,2022-11-22
+CUST-2321,Riley Simmons,Potential Loyalists,Silver,New York,NY,East,2022-10-21
+CUST-2322,Pat Foster,Loyal Customers,Standard,Houston,TX,South,2021-03-12
+CUST-2323,Reese Butler,Loyal Customers,Gold,Denver,CO,Central,2022-09-07
+CUST-2324,Riley Patterson,At Risk,Gold,New York,NY,East,2021-06-24
+CUST-2325,Dakota Griffin,Hibernating,Silver,Chicago,IL,Central,2022-02-12
+CUST-2326,Riley Simmons,Loyal Customers,Silver,Denver,CO,Central,2022-03-06
+CUST-2327,Skyler Alexander,Potential Loyalists,Platinum,Philadelphia,PA,East,2022-08-31
+CUST-2328,Morgan Simmons,Potential Loyalists,Standard,Los Angeles,CA,West,2021-05-21
+CUST-2329,Rowan Perry,Potential Loyalists,Silver,Philadelphia,PA,East,2022-07-08
+CUST-2330,Riley Hughes,Loyal Customers,Silver,New York,NY,East,2021-11-16
+CUST-2331,Logan Washington,Hibernating,Platinum,Denver,CO,Central,2022-03-20
+CUST-2332,Pat Bryant,Loyal Customers,Standard,New York,NY,East,2021-11-01
+CUST-2333,Jordan Simmons,Hibernating,Silver,Seattle,WA,West,2021-03-13
+CUST-2334,Peyton Washington,Champions,Gold,Seattle,WA,West,2021-08-23
+CUST-2335,Hayden Washington,Hibernating,Silver,Miami,FL,South,2022-07-13
+CUST-2336,Jesse Jenkins,Loyal Customers,Standard,Atlanta,GA,South,2022-07-25
+CUST-2337,Pat Powell,At Risk,Standard,New York,NY,East,2022-02-05
+CUST-2338,Riley Russell,Hibernating,Gold,Phoenix,AZ,West,2021-10-09
+CUST-2339,Jordan Alexander,Champions,Standard,Houston,TX,South,2022-11-27
+CUST-2340,Pat Jenkins,At Risk,Platinum,Miami,FL,South,2021-03-10
+CUST-2341,Jordan Bennett,Loyal Customers,Platinum,Philadelphia,PA,East,2022-12-08
+CUST-2342,Peyton Diaz,Loyal Customers,Standard,Phoenix,AZ,West,2022-02-07
+CUST-2343,Hayden Coleman,Potential Loyalists,Standard,Philadelphia,PA,East,2021-09-09
+CUST-2344,Logan Simmons,At Risk,Silver,Houston,TX,South,2022-06-26
+CUST-2345,Finley Griffin,Loyal Customers,Silver,Los Angeles,CA,West,2021-12-31
+CUST-2346,Jesse Washington,Potential Loyalists,Gold,Atlanta,GA,South,2022-04-22
+CUST-2347,Riley Sullivan,Potential Loyalists,Silver,Los Angeles,CA,West,2021-03-05
+CUST-2348,Jesse Griffin,At Risk,Platinum,Los Angeles,CA,West,2022-11-25
+CUST-2349,Hayden Flores,Potential Loyalists,Standard,Chicago,IL,Central,2022-09-02
+CUST-2350,Cameron Griffin,At Risk,Gold,Seattle,WA,West,2021-10-30

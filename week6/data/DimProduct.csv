@@ -1,0 +1,17 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice
+PROD-101,Ultra Wireless ANC Headphones,Electronics,Audio,65.0,149.0
+PROD-102,Smart Fitness Tracker 4K,Electronics,Wearables,42.0,99.0
+PROD-103,Mechanical Gaming Keyboard RGB,Electronics,Accessories,38.0,89.0
+PROD-104,Pro Studio Condenser Mic,Electronics,Audio,55.0,129.0
+PROD-105,USB-C Multi-Port Hub Pro,Electronics,Accessories,18.0,49.0
+PROD-201,Ergonomic Lumbar Office Chair,Furniture,Seating,110.0,249.0
+PROD-202,Motorized Dual-Motor Standing Desk,Furniture,Desks,220.0,489.0
+PROD-203,Solid Bamboo Desk Riser,Furniture,Accessories,24.0,65.0
+PROD-204,Acoustic Noise-Dampening Panel 6pk,Furniture,Decor,30.0,79.0
+PROD-301,Performance Thermal Travel Mug,Lifestyle,Drinkware,12.0,34.0
+PROD-302,Water-Resistant Commuter Backpack,Lifestyle,Bags,28.0,79.0
+PROD-303,Compact Desk Air Purifier HEPA,Lifestyle,Appliances,36.0,95.0
+PROD-304,UV-C Sanitizing Desk Organizer,Lifestyle,Appliances,20.0,55.0
+PROD-401,Recycled Hardcover Notebook 3pk,Supplies,Stationery,6.0,18.0
+PROD-402,Heavy-Duty Cable Sleeve Kit,Supplies,Organization,8.0,22.0
+PROD-403,Precision Aluminum Stylus Pen,Supplies,Accessories,11.0,29.0

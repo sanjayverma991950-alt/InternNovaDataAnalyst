@@ -1,0 +1,201 @@
+CustomerID,CustomerName,Segment,Country,City,State,PostalCode
+CUST-1001,Patricia Smith,Corporate,United States,Los Angeles,California,90001
+CUST-1002,John Brown,Corporate,United States,Boston,Massachusetts,02108
+CUST-1003,Susan Johnson,Consumer,United States,Los Angeles,California,90001
+CUST-1004,Thomas Martin,Consumer,United States,San Francisco,California,94102
+CUST-1005,Sarah Wilson,Consumer,United States,Chicago,Illinois,60601
+CUST-1006,Jennifer Wilson,Consumer,United States,Los Angeles,California,90001
+CUST-1007,David Brown,Consumer,United States,Philadelphia,Pennsylvania,19104
+CUST-1008,Barbara Martin,Consumer,United States,Boston,Massachusetts,02108
+CUST-1009,Joseph Moore,Consumer,United States,Atlanta,Georgia,30301
+CUST-1010,Sarah Martinez,Home Office,United States,Detroit,Michigan,48201
+CUST-1011,Michael Williams,Consumer,United States,Seattle,Washington,98101
+CUST-1012,Robert Davis,Home Office,United States,Miami,Florida,33101
+CUST-1013,Joseph Lopez,Consumer,United States,Chicago,Illinois,60601
+CUST-1014,William Williams,Corporate,United States,San Francisco,California,94102
+CUST-1015,Linda Garcia,Consumer,United States,Detroit,Michigan,48201
+CUST-1016,Sarah Davis,Corporate,United States,New York,New York,10001
+CUST-1017,Mary Hernandez,Consumer,United States,New York,New York,10001
+CUST-1018,Charles Hernandez,Consumer,United States,Miami,Florida,33101
+CUST-1019,Joseph Jones,Consumer,United States,San Francisco,California,94102
+CUST-1020,Sarah Moore,Consumer,United States,Charlotte,North Carolina,28202
+CUST-1021,Richard Lopez,Consumer,United States,San Francisco,California,94102
+CUST-1022,Jessica Williams,Corporate,United States,New York,New York,10001
+CUST-1023,Jennifer Wilson,Corporate,United States,Miami,Florida,33101
+CUST-1024,Karen Anderson,Corporate,United States,Boston,Massachusetts,02108
+CUST-1025,Patricia Moore,Corporate,United States,Chicago,Illinois,60601
+CUST-1026,Elizabeth Wilson,Consumer,United States,Boston,Massachusetts,02108
+CUST-1027,William Taylor,Corporate,United States,Boston,Massachusetts,02108
+CUST-1028,Elizabeth Taylor,Corporate,United States,Seattle,Washington,98101
+CUST-1029,Jennifer Moore,Home Office,United States,Boston,Massachusetts,02108
+CUST-1030,David Thomas,Consumer,United States,Dallas,Texas,75201
+CUST-1031,Linda Johnson,Consumer,United States,New York,New York,10001
+CUST-1032,Jessica Williams,Home Office,United States,Los Angeles,California,90001
+CUST-1033,Jessica Moore,Consumer,United States,Atlanta,Georgia,30301
+CUST-1034,Sarah Miller,Corporate,United States,Charlotte,North Carolina,28202
+CUST-1035,Barbara Anderson,Home Office,United States,Atlanta,Georgia,30301
+CUST-1036,Linda Davis,Consumer,United States,Boston,Massachusetts,02108
+CUST-1037,Sarah Davis,Corporate,United States,New York,New York,10001
+CUST-1038,Mary Davis,Consumer,United States,Philadelphia,Pennsylvania,19104
+CUST-1039,Robert Taylor,Consumer,United States,Atlanta,Georgia,30301
+CUST-1040,Sarah Jones,Corporate,United States,Atlanta,Georgia,30301
+CUST-1041,Jessica Wilson,Consumer,United States,Boston,Massachusetts,02108
+CUST-1042,Susan Lopez,Consumer,United States,Charlotte,North Carolina,28202
+CUST-1043,Mary Brown,Consumer,United States,Chicago,Illinois,60601
+CUST-1044,Linda Miller,Consumer,United States,Atlanta,Georgia,30301
+CUST-1045,Susan Garcia,Consumer,United States,Los Angeles,California,90001
+CUST-1046,Joseph Moore,Consumer,United States,New York,New York,10001
+CUST-1047,Linda Garcia,Consumer,United States,Atlanta,Georgia,30301
+CUST-1048,Richard Johnson,Consumer,United States,Philadelphia,Pennsylvania,19104
+CUST-1049,William Anderson,Consumer,United States,Atlanta,Georgia,30301
+CUST-1050,Michael Martinez,Consumer,United States,Boston,Massachusetts,02108
+CUST-1051,Sarah Johnson,Corporate,United States,New York,New York,10001
+CUST-1052,Charles Thomas,Consumer,United States,Los Angeles,California,90001
+CUST-1053,Thomas Williams,Home Office,United States,Boston,Massachusetts,02108
+CUST-1054,Robert Davis,Consumer,United States,San Francisco,California,94102
+CUST-1055,Karen Johnson,Corporate,United States,Charlotte,North Carolina,28202
+CUST-1056,Charles Jackson,Corporate,United States,Chicago,Illinois,60601
+CUST-1057,David Davis,Consumer,United States,San Francisco,California,94102
+CUST-1058,Elizabeth Anderson,Consumer,United States,New York,New York,10001
+CUST-1059,Joseph Martin,Home Office,United States,New York,New York,10001
+CUST-1060,Sarah Miller,Consumer,United States,Seattle,Washington,98101
+CUST-1061,Robert Davis,Consumer,United States,Seattle,Washington,98101
+CUST-1062,Sarah Martinez,Corporate,United States,Boston,Massachusetts,02108
+CUST-1063,Sarah Martinez,Home Office,United States,New York,New York,10001
+CUST-1064,William Brown,Home Office,United States,Seattle,Washington,98101
+CUST-1065,Elizabeth Martin,Consumer,United States,Chicago,Illinois,60601
+CUST-1066,William Taylor,Consumer,United States,New York,New York,10001
+CUST-1067,Susan Rodriguez,Consumer,United States,Chicago,Illinois,60601
+CUST-1068,William Garcia,Corporate,United States,Charlotte,North Carolina,28202
+CUST-1069,James Brown,Consumer,United States,San Francisco,California,94102
+CUST-1070,Mary Lopez,Corporate,United States,Seattle,Washington,98101
+CUST-1071,John Johnson,Consumer,United States,Philadelphia,Pennsylvania,19104
+CUST-1072,Michael Davis,Corporate,United States,Detroit,Michigan,48201
+CUST-1073,Susan Martin,Corporate,United States,Los Angeles,California,90001
+CUST-1074,Jennifer Wilson,Consumer,United States,Dallas,Texas,75201
+CUST-1075,Linda Rodriguez,Consumer,United States,Philadelphia,Pennsylvania,19104
+CUST-1076,Mary Thomas,Consumer,United States,Miami,Florida,33101
+CUST-1077,Elizabeth Davis,Consumer,United States,Seattle,Washington,98101
+CUST-1078,David Rodriguez,Home Office,United States,Dallas,Texas,75201
+CUST-1079,Thomas Gonzalez,Corporate,United States,Chicago,Illinois,60601
+CUST-1080,Patricia Rodriguez,Consumer,United States,Chicago,Illinois,60601
+CUST-1081,Patricia Martin,Consumer,United States,Dallas,Texas,75201
+CUST-1082,Karen Taylor,Consumer,United States,Seattle,Washington,98101
+CUST-1083,Mary Wilson,Consumer,United States,Seattle,Washington,98101
+CUST-1084,Susan Williams,Home Office,United States,Detroit,Michigan,48201
+CUST-1085,David Brown,Corporate,United States,Detroit,Michigan,48201
+CUST-1086,Elizabeth Wilson,Consumer,United States,Detroit,Michigan,48201
+CUST-1087,John Miller,Consumer,United States,Charlotte,North Carolina,28202
+CUST-1088,Jennifer Martin,Corporate,United States,Charlotte,North Carolina,28202
+CUST-1089,James Martinez,Consumer,United States,Charlotte,North Carolina,28202
+CUST-1090,Karen Hernandez,Consumer,United States,Charlotte,North Carolina,28202
+CUST-1091,Michael Taylor,Consumer,United States,San Francisco,California,94102
+CUST-1092,Robert Martinez,Consumer,United States,Chicago,Illinois,60601
+CUST-1093,Linda Martinez,Consumer,United States,Los Angeles,California,90001
+CUST-1094,James Johnson,Consumer,United States,Charlotte,North Carolina,28202
+CUST-1095,Robert Anderson,Consumer,United States,San Francisco,California,94102
+CUST-1096,Richard Thomas,Consumer,United States,San Francisco,California,94102
+CUST-1097,James Brown,Corporate,United States,Los Angeles,California,90001
+CUST-1098,Thomas Anderson,Consumer,United States,Los Angeles,California,90001
+CUST-1099,Joseph Jones,Corporate,United States,Dallas,Texas,75201
+CUST-1100,Karen Taylor,Consumer,United States,Atlanta,Georgia,30301
+CUST-1101,Jessica Anderson,Consumer,United States,San Francisco,California,94102
+CUST-1102,William Taylor,Consumer,United States,Seattle,Washington,98101
+CUST-1103,Joseph Williams,Corporate,United States,Seattle,Washington,98101
+CUST-1104,David Hernandez,Home Office,United States,New York,New York,10001
+CUST-1105,John Davis,Consumer,United States,San Francisco,California,94102
+CUST-1106,Michael Williams,Consumer,United States,Detroit,Michigan,48201
+CUST-1107,Joseph Wilson,Consumer,United States,Miami,Florida,33101
+CUST-1108,Charles Smith,Home Office,United States,Miami,Florida,33101
+CUST-1109,James Lopez,Consumer,United States,Miami,Florida,33101
+CUST-1110,Sarah Moore,Corporate,United States,Seattle,Washington,98101
+CUST-1111,Linda Rodriguez,Consumer,United States,Philadelphia,Pennsylvania,19104
+CUST-1112,David Gonzalez,Corporate,United States,Atlanta,Georgia,30301
+CUST-1113,Karen Moore,Consumer,United States,Charlotte,North Carolina,28202
+CUST-1114,Charles Smith,Consumer,United States,Atlanta,Georgia,30301
+CUST-1115,Joseph Garcia,Consumer,United States,Miami,Florida,33101
+CUST-1116,Michael Anderson,Consumer,United States,Miami,Florida,33101
+CUST-1117,Susan Rodriguez,Home Office,United States,Atlanta,Georgia,30301
+CUST-1118,Sarah Johnson,Home Office,United States,Chicago,Illinois,60601
+CUST-1119,Robert Johnson,Corporate,United States,Los Angeles,California,90001
+CUST-1120,James Martin,Consumer,United States,Seattle,Washington,98101
+CUST-1121,Patricia Jackson,Home Office,United States,Charlotte,North Carolina,28202
+CUST-1122,William Lopez,Consumer,United States,New York,New York,10001
+CUST-1123,Elizabeth Brown,Corporate,United States,Detroit,Michigan,48201
+CUST-1124,Richard Gonzalez,Home Office,United States,Los Angeles,California,90001
+CUST-1125,Charles Davis,Consumer,United States,Detroit,Michigan,48201
+CUST-1126,Karen Brown,Corporate,United States,Philadelphia,Pennsylvania,19104
+CUST-1127,Sarah Wilson,Corporate,United States,Boston,Massachusetts,02108
+CUST-1128,David Smith,Home Office,United States,Atlanta,Georgia,30301
+CUST-1129,Susan Lopez,Corporate,United States,Charlotte,North Carolina,28202
+CUST-1130,John Wilson,Consumer,United States,Detroit,Michigan,48201
+CUST-1131,Sarah Thomas,Consumer,United States,Dallas,Texas,75201
+CUST-1132,Linda Williams,Consumer,United States,Atlanta,Georgia,30301
+CUST-1133,Joseph Jackson,Corporate,United States,Miami,Florida,33101
+CUST-1134,James Thomas,Home Office,United States,Seattle,Washington,98101
+CUST-1135,Michael Lopez,Corporate,United States,Dallas,Texas,75201
+CUST-1136,Karen Rodriguez,Corporate,United States,Los Angeles,California,90001
+CUST-1137,Linda Wilson,Consumer,United States,San Francisco,California,94102
+CUST-1138,Jessica Thomas,Consumer,United States,New York,New York,10001
+CUST-1139,Elizabeth Davis,Consumer,United States,Seattle,Washington,98101
+CUST-1140,Charles Lopez,Consumer,United States,Dallas,Texas,75201
+CUST-1141,Sarah Hernandez,Consumer,United States,Miami,Florida,33101
+CUST-1142,Elizabeth Rodriguez,Consumer,United States,Seattle,Washington,98101
+CUST-1143,Patricia Moore,Home Office,United States,Los Angeles,California,90001
+CUST-1144,Michael Thomas,Consumer,United States,Chicago,Illinois,60601
+CUST-1145,Michael Martinez,Consumer,United States,Seattle,Washington,98101
+CUST-1146,James Moore,Consumer,United States,New York,New York,10001
+CUST-1147,Sarah Martinez,Corporate,United States,San Francisco,California,94102
+CUST-1148,Jessica Brown,Home Office,United States,Dallas,Texas,75201
+CUST-1149,Jessica Anderson,Consumer,United States,Philadelphia,Pennsylvania,19104
+CUST-1150,Jessica Brown,Home Office,United States,Miami,Florida,33101
+CUST-1151,Robert Jackson,Corporate,United States,New York,New York,10001
+CUST-1152,John Jackson,Home Office,United States,New York,New York,10001
+CUST-1153,Patricia Moore,Corporate,United States,San Francisco,California,94102
+CUST-1154,Richard Anderson,Home Office,United States,Detroit,Michigan,48201
+CUST-1155,Susan Martinez,Corporate,United States,Boston,Massachusetts,02108
+CUST-1156,Patricia Miller,Corporate,United States,Detroit,Michigan,48201
+CUST-1157,Robert Garcia,Consumer,United States,New York,New York,10001
+CUST-1158,James Wilson,Consumer,United States,Miami,Florida,33101
+CUST-1159,Mary Davis,Consumer,United States,Detroit,Michigan,48201
+CUST-1160,Joseph Williams,Corporate,United States,Detroit,Michigan,48201
+CUST-1161,Charles Miller,Consumer,United States,San Francisco,California,94102
+CUST-1162,John Rodriguez,Home Office,United States,New York,New York,10001
+CUST-1163,Jennifer Martinez,Corporate,United States,Dallas,Texas,75201
+CUST-1164,Patricia Anderson,Corporate,United States,Miami,Florida,33101
+CUST-1165,Thomas Moore,Consumer,United States,Boston,Massachusetts,02108
+CUST-1166,Mary Wilson,Corporate,United States,Chicago,Illinois,60601
+CUST-1167,Robert Davis,Home Office,United States,Boston,Massachusetts,02108
+CUST-1168,William Jackson,Consumer,United States,Seattle,Washington,98101
+CUST-1169,Thomas Anderson,Home Office,United States,San Francisco,California,94102
+CUST-1170,Susan Thomas,Home Office,United States,Miami,Florida,33101
+CUST-1171,Susan Hernandez,Consumer,United States,New York,New York,10001
+CUST-1172,David Wilson,Corporate,United States,Detroit,Michigan,48201
+CUST-1173,Richard Moore,Consumer,United States,Philadelphia,Pennsylvania,19104
+CUST-1174,William Hernandez,Consumer,United States,Charlotte,North Carolina,28202
+CUST-1175,James Moore,Consumer,United States,New York,New York,10001
+CUST-1176,Thomas Lopez,Corporate,United States,Charlotte,North Carolina,28202
+CUST-1177,Joseph Johnson,Consumer,United States,Seattle,Washington,98101
+CUST-1178,Joseph Thomas,Consumer,United States,San Francisco,California,94102
+CUST-1179,Jennifer Martinez,Corporate,United States,Atlanta,Georgia,30301
+CUST-1180,Linda Brown,Consumer,United States,Boston,Massachusetts,02108
+CUST-1181,John Thomas,Home Office,United States,Detroit,Michigan,48201
+CUST-1182,William Wilson,Home Office,United States,Atlanta,Georgia,30301
+CUST-1183,Joseph Moore,Consumer,United States,San Francisco,California,94102
+CUST-1184,Thomas Jones,Home Office,United States,Dallas,Texas,75201
+CUST-1185,David Taylor,Consumer,United States,Philadelphia,Pennsylvania,19104
+CUST-1186,Elizabeth Jackson,Corporate,United States,Atlanta,Georgia,30301
+CUST-1187,Joseph Moore,Consumer,United States,Detroit,Michigan,48201
+CUST-1188,Sarah Gonzalez,Consumer,United States,Chicago,Illinois,60601
+CUST-1189,Linda Jackson,Consumer,United States,Atlanta,Georgia,30301
+CUST-1190,David Thomas,Corporate,United States,Miami,Florida,33101
+CUST-1191,John Thomas,Home Office,United States,San Francisco,California,94102
+CUST-1192,Charles Hernandez,Home Office,United States,Atlanta,Georgia,30301
+CUST-1193,Thomas Anderson,Consumer,United States,Seattle,Washington,98101
+CUST-1194,John Williams,Consumer,United States,Dallas,Texas,75201
+CUST-1195,Karen Gonzalez,Corporate,United States,Detroit,Michigan,48201
+CUST-1196,Sarah Gonzalez,Home Office,United States,Charlotte,North Carolina,28202
+CUST-1197,Mary Martin,Consumer,United States,Chicago,Illinois,60601
+CUST-1198,Robert Wilson,Home Office,United States,Philadelphia,Pennsylvania,19104
+CUST-1199,Jennifer Martinez,Home Office,United States,Philadelphia,Pennsylvania,19104
+CUST-1200,Mary Martinez,Consumer,United States,Atlanta,Georgia,30301

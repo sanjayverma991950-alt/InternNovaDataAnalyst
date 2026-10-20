@@ -1,0 +1,25 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice
+PROD-TEC-001,Apple MacBook Pro 16,Technology,Laptops,1800.0,2499.0
+PROD-TEC-002,Dell XPS 15 Laptop,Technology,Laptops,1350.0,1899.0
+PROD-TEC-003,HP Spectre x360,Technology,Laptops,1000.0,1399.0
+PROD-TEC-004,iPhone 15 Pro Max,Technology,Phones,850.0,1199.0
+PROD-TEC-005,Samsung Galaxy S24 Ultra,Technology,Phones,820.0,1149.0
+PROD-TEC-006,Sony WH-1000XM5 Headphones,Technology,Accessories,220.0,399.0
+PROD-TEC-007,Logitech MX Master 3S Mouse,Technology,Accessories,55.0,99.0
+PROD-TEC-008,LG UltraFine 27-inch 4K Monitor,Technology,Accessories,380.0,599.0
+PROD-TEC-009,Cisco Business PoE Switch,Technology,Networking,310.0,480.0
+PROD-FUR-001,Herman Miller Aeron Chair,Furniture,Chairs,780.0,1250.0
+PROD-FUR-002,Steelcase Gesture Ergonomic Chair,Furniture,Chairs,720.0,1120.0
+PROD-FUR-003,Solid Oak Executive Conference Table,Furniture,Tables,950.0,1450.0
+PROD-FUR-004,Motorized Adjustable Standing Desk,Furniture,Tables,420.0,680.0
+PROD-FUR-005,4-Tier Modular Wood Bookcase,Furniture,Bookcases,180.0,310.0
+PROD-FUR-006,Commercial Steel 3-Drawer Filing Cabinet,Furniture,Furnishings,130.0,220.0
+PROD-FUR-007,LED Dimmable Modern Desk Lamp,Furniture,Furnishings,35.0,75.0
+PROD-OFF-001,Multi-Purpose Copy Paper 20lb (Case),Office Supplies,Paper,24.0,48.0
+PROD-OFF-002,Heavy-Duty View 3-Ring Binders (12pk),Office Supplies,Binders,18.0,36.0
+PROD-OFF-003,Pilot G2 Gel Roller Pens (Pack of 24),Office Supplies,Pens,14.0,28.0
+PROD-OFF-004,Fellowes Powershred Cross-Cut Shredder,Office Supplies,Appliances,110.0,195.0
+PROD-OFF-005,Scotch Heavy Duty Packaging Tape (6pk),Office Supplies,Storage,16.0,32.0
+PROD-OFF-006,Neenah Classic Crest Linen Envelopes (500pk),Office Supplies,Envelopes,22.0,45.0
+PROD-OFF-007,Avery Self-Adhesive Shipping Labels (1000pk),Office Supplies,Labels,12.0,26.0
+PROD-OFF-008,Quartet Magnetic Glass Dry-Erase Board,Office Supplies,Art,95.0,175.0

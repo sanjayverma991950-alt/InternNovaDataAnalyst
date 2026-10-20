@@ -1,0 +1,37 @@
+Total Sales = SUM(FactSales[Sales])
+
+Total Cost = SUM(FactSales[Cost])
+
+Total Profit = SUM(FactSales[Profit])
+
+Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
+
+Profit Margin Pct = FORMAT([Profit Margin], "0.0%")
+
+Average Order Value = AVERAGE(FactSales[Sales])
+
+Total Orders = DISTINCTCOUNT(FactSales[OrderID])
+
+Total Transactions = COUNTROWS(FactSales)
+
+Total Quantity Sold = SUM(FactSales[Quantity])
+
+Average Items Per Order = DIVIDE([Total Quantity Sold], [Total Orders], 0)
+
+Max Sale Value = MAX(FactSales[Sales])
+
+Min Sale Value = MIN(FactSales[Sales])
+
+Average Discount Rate = AVERAGE(FactSales[Discount])
+
+Technology Sales = CALCULATE([Total Sales], DimProduct[Category] = "Technology")
+
+Furniture Sales = CALCULATE([Total Sales], DimProduct[Category] = "Furniture")
+
+Office Supplies Sales = CALCULATE([Total Sales], DimProduct[Category] = "Office Supplies")
+
+Sales Prior Year = CALCULATE([Total Sales], SAMEPERIODLASTYEAR(DimDate[Date]))
+
+YoY Sales Growth = DIVIDE([Total Sales] - [Sales Prior Year], [Sales Prior Year], 0)
+
+Sales Contribution Pct = DIVIDE([Total Sales], CALCULATE([Total Sales], ALL(FactSales)), 0)

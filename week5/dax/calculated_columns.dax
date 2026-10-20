@@ -1,0 +1,20 @@
+FactSales[Shipping Duration Days] = DATEDIFF(FactSales[OrderDate], FactSales[ShipDate], DAY)
+
+FactSales[Gross Amount] = FactSales[Quantity] * RELATED(DimProduct[UnitPrice])
+
+FactSales[Discount Amount] = FactSales[Gross Amount] * FactSales[Discount]
+
+FactSales[Profit Status] = IF(FactSales[Profit] >= 0, "Profitable", "Loss")
+
+FactSales[Sales Tier] = SWITCH(
+    TRUE(),
+    FactSales[Sales] >= 5000, "High Value ($5000+)",
+    FactSales[Sales] >= 1000, "Medium Value ($1000-$4999)",
+    "Standard Value (<$1000)"
+)
+
+DimProduct[Margin Category] = IF(
+    DIVIDE(DimProduct[UnitPrice] - DimProduct[UnitCost], DimProduct[UnitPrice], 0) >= 0.40,
+    "High Margin",
+    "Standard Margin"
+)

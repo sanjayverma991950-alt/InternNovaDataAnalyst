@@ -1,0 +1,43 @@
+Total Revenue = SUM(FactTransactions[SalesAmount])
+
+Total Cost = SUM(FactTransactions[CostAmount])
+
+Total Net Profit = SUM(FactTransactions[ProfitAmount])
+
+Total Discounts Given = SUM(FactTransactions[DiscountAmount])
+
+Total Tax Collected = SUM(FactTransactions[TaxAmount])
+
+Operating Profit Margin = DIVIDE([Total Net Profit], [Total Revenue], 0)
+
+Profit Margin Pct = FORMAT([Operating Profit Margin], "0.0%")
+
+Average Order Value = AVERAGE(FactTransactions[SalesAmount])
+
+Total Transactions = COUNTROWS(FactTransactions)
+
+Total Unique Customers = DISTINCTCOUNT(FactTransactions[CustomerID])
+
+Total Units Sold = SUM(FactTransactions[Quantity])
+
+Average Items Per Order = DIVIDE([Total Units Sold], [Total Transactions], 0)
+
+Max Order Value = MAX(FactTransactions[SalesAmount])
+
+Min Order Value = MIN(FactTransactions[SalesAmount])
+
+Average Fulfillment Days = AVERAGE(FactTransactions[DeliveryDays])
+
+Return Rate = DIVIDE(
+    CALCULATE(COUNTROWS(FactTransactions), FactTransactions[ReturnStatus] = "Yes"),
+    [Total Transactions],
+    0
+)
+
+Customer Lifetime Value = DIVIDE([Total Revenue], [Total Unique Customers], 0)
+
+Prior Year Revenue = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(DimDate[Date]))
+
+YoY Revenue Growth = DIVIDE([Total Revenue] - [Prior Year Revenue], [Prior Year Revenue], 0)
+
+Revenue Share Pct = DIVIDE([Total Revenue], CALCULATE([Total Revenue], ALL(FactTransactions)), 0)

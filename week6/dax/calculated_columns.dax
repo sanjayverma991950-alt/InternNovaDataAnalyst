@@ -1,0 +1,27 @@
+FactTransactions[Profit Status] = IF(FactTransactions[ProfitAmount] >= 0, "Profitable", "Loss")
+
+FactTransactions[Fulfillment Speed] = SWITCH(
+    TRUE(),
+    FactTransactions[DeliveryDays] <= 2, "Express (1-2 Days)",
+    FactTransactions[DeliveryDays] <= 4, "Standard (3-4 Days)",
+    "Delayed (5+ Days)"
+)
+
+FactTransactions[Order Value Tier] = SWITCH(
+    TRUE(),
+    FactTransactions[SalesAmount] >= 500, "High Ticket ($500+)",
+    FactTransactions[SalesAmount] >= 150, "Mid Ticket ($150-$499)",
+    "Low Ticket (<$150)"
+)
+
+FactTransactions[Effective Discount Pct] = DIVIDE(
+    FactTransactions[DiscountAmount],
+    FactTransactions[DiscountAmount] + (FactTransactions[SalesAmount] - FactTransactions[TaxAmount]),
+    0
+)
+
+DimCustomer[Tenure Cohort] = IF(
+    YEAR(DimCustomer[AcquisitionDate]) = 2023,
+    "2023 Cohort",
+    "2024 Cohort"
+)
